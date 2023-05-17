@@ -3,10 +3,10 @@ ERM Casus
 
 | **Description**         | _Data_                                                |
 | ----------------------- | ----------------------------------------------------- |
-| **Naam student**        | <ul><li>A. Shaban</li><li>F.K.A. Soffers</li></ul> |
+| **Naam student**        | <ul><li>J. Van Aalst</li><li>F.K.A. Soffers</li></ul> |
 | **Opleiding**           | HBO-ICT, Software Development                         |
 | **Studiejaar**          | 2022 / 2023                                           |
-| **Begeleidende docent** | Dhr. Paksha Thullner
+| **Begeleidende docent** | n.v.t.
 | **Plaats**              | Arnhem                                                |
-| **Datum**               | Vrijdag 10 october 2023                               |
+| **Datum**               | Woensdag 22 mei 2023                                  |
 | **Versie**              | 1.0                                                   |
